@@ -1,0 +1,78 @@
+body{
+  background-color: black;
+  background-image: url("https://queue-it.com/media/ss1dxknh/bored-apes.jpg");
+  overflow-x: hidden;
+}
+
+
+.navbar{
+  display: flex;
+}
+
+.whiteboard{
+
+  display: flex;
+}
+.mint{
+  display: flex;
+  justify-content: center;
+}
+
+
+.camera{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.pics{
+
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+
+
+
+.button-92 {
+  font-weight: bold;
+  font-size: 2rem;
+  margin: 0;
+  cursor: pointer;
+  padding: .1em .3em;
+}
+
+.button1{display: inline-block;
+  outline: none;
+  cursor: pointer;
+  font-size: 14px;
+  line-height: 1;
+  border-radius: 500px;
+  transition-property: background-color,border-color,color,box-shadow,filter;
+  transition-duration: .3s;
+  border: 1px solid transparent;
+  letter-spacing: 2px;
+  min-width: 160px;
+  text-transform: uppercase;
+  white-space: normal;
+  font-weight: 700;
+  text-align: center;
+  padding: 17px 48px;
+  color: #fff;
+  background-color: green;
+  height: 48px;
+  :hover{
+      transform: scale(1.04);
+      background-color: #21e065;
+  }
+  }
+.content{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
+

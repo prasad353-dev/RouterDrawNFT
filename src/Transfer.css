@@ -1,0 +1,13 @@
+.main{
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly
+}
+
+.transfer{
+
+}
+
+.transfer:hover{
+    background-color: grey
+}
